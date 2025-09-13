@@ -1,3 +1,0 @@
-READ ME for Baking Quest
-
-Baking Quest is short and small text adventure where the player is a baker looking to bake a special cake. The baker takes their money pouch and goes out to various places in order to gather ingredients for their special cake. Arona Center holds many merchants, but one merchant has a particular spice the baker is looking for. Syrus Forest is lush but holds an important item needed for the future. Vera River harbors delicious berries but there seems to be something else also in the berry bush. The baker will not be satisfied until they've gotten all their ingredients to make their special and spectacular cake! 
