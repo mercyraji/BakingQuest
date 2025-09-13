@@ -1,18 +1,7 @@
-# Text Adventure Games!
+# Baking Quest!
 
 This Python notebook builds a simple text advenutre game inspired by the
 [Adventuron Classroom](https://adventuron.io/classroom/) design by Chris
 Ainsley of Adventuron Software Limited.
 
-The main components are:
-1. __The parser__, which interprets the player's commands.
-2. __The game__, which represents world (a collection of __locations__,
-   __items__, and __characters__), and describes what the player sees.
-3. __The data__, which you input to create your own unique game.
-
-For this homework assignment, I have implemented most of a classic text
-adventure game for you.  I marked a few places that you'll need to fill in your
-own code in order to implement ACTION CASTLE!
-
-You can download a PDF of the game from [Parsely: Preview n' Play Edition (this
-contains a free copy the Action Castle game).](http://www.memento-mori.com/pdf/parsely-preview-n-play-edition)
+Baking Quest is short and small text adventure where the player is a baker looking to bake a special cake. The baker takes their money pouch and goes out to various places in order to gather ingredients for their special cake. Arona Center holds many merchants, but one merchant has a particular spice the baker is looking for. Syrus Forest is lush but holds an important item needed for the future. Vera River harbors delicious berries but there seems to be something else also in the berry bush. The baker will not be satisfied until they've gotten all their ingredients to make their special and spectacular cake! 
